@@ -2,7 +2,6 @@
 
 # Knights-AppImage 🐧
 
-[![GitHub Release](https://img.shields.io/github/v/release/aurelis-packages/aurelis-app-Knights?label=Release)](https://github.com/aurelis-packages/aurelis-app-Knights/releases/latest)
 [![Version](https://img.shields.io/badge/Version-26.08.2--1-blue)](https://github.com/aurelis-packages/aurelis-app-Knights/releases/latest)
 [![Architecture](https://img.shields.io/badge/Arch-x86__64%20%7C%20aarch64-green)](https://github.com/aurelis-packages/aurelis-app-Knights/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
